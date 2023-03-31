@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nimej99/webtoon.git/static/css/main.b3f80d8c.css",
+    "main.js": "/nimej99/webtoon.git/static/js/main.cf4b10d2.js",
+    "index.html": "/nimej99/webtoon.git/index.html",
+    "main.b3f80d8c.css.map": "/nimej99/webtoon.git/static/css/main.b3f80d8c.css.map",
+    "main.cf4b10d2.js.map": "/nimej99/webtoon.git/static/js/main.cf4b10d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f80d8c.css",
+    "static/js/main.cf4b10d2.js"
+  ]
+}
